@@ -23,3 +23,6 @@ Thumbs.db
 *.xlsx
 *.xls
 Sample - Superstore.xls
+create_presentation.py
+PRESENTATION.md
+~$*.pptx
